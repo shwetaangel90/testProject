@@ -1,0 +1,28 @@
+				PERSONAL ACCOUNTANT
+Project Goal:
+It is a stand-alone software. The idea behind this project is to create a virtual accountant for a person which will help the person to manage their income and expenses at its own. It would increase the efficiency of a person and will also save the time as it will be an automated software. Fact behind managing your expenses is to stick to the budget and it will help to save more money than you usually can not.
+
+
+Features:
+
+Speed: It will help to manage your spending at much faster speed.
+
+Time Period: User will be able to track their daily, monthly even yearly expense.
+
+Accuracy: It provides the user with 100% accuracy.
+
+Multiple Accounts: It can help to maintain multiple accounts.
+
+Set Budget:  user may fix the budget and can cut the expenses accordingly.
+
+Reports:  it will allow the user to generate reports monthly, biannually or annually.
+
+Backup: User may take the backup on their system.
+
+Users:
+Any person who is dealing with money can use this application. To explain in brief we can say that any person who wants to save money either he is dealing with his own business or working as an employee. Even the software will be useful for home managers also. It will be a very helpful software for a common individual as well as for a businessman.
+
+References:
+https://play.google.com/store/apps/
+
+https://sites.google.com/site/tiesitestutorial/
